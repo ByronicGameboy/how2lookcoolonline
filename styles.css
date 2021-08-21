@@ -7,3 +7,8 @@ h1.em {
 		font-family: helvetica, Sans-serif;
 		font-weight: normal;
 }
+
+p {
+		color:pink;
+		font-size: 15px
+}

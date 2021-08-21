@@ -1,8 +1,9 @@
 <!DOCTYPE CSS>
 
-#background {
-  background-image: url(simplified-philmap.png);
-  background-position: right bottom, left top;
-  background-repeat: no-repeat, repeat;
-  padding: 15px;
+h1.em {
+		text-align: center;
+		color:black;
+		font-size:25px; 
+		font-family: helvetica, Sans-serif;
+		font-weight: normal;
 }
